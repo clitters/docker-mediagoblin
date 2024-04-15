@@ -1,0 +1,2 @@
+# docker-mediagoblin
+Dockerized mediagoblin
